@@ -1,8 +1,7 @@
 package Teste;
 
 public class Testejava {
-	
-	int num1;
-	
+	//alterou branch
+	int num1;	
 
 }
